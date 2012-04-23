@@ -5,7 +5,8 @@ import android.os.Bundle;
 
 public class SegundafelipeActivity extends Activity {
     /** Called when the activity is first created. */
-	/** Segundo comentário do domingo--agora no master/
+	/** Segundo comentário do domingo--agora no master */
+	/** comentário 1 */
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
